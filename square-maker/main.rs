@@ -22,7 +22,6 @@ impl Rectangle {
 }
 
 fn main() {
-
     let mut size = String::new();
 
     println!("\n\n\nSquare maker 1.0\n");
@@ -38,5 +37,4 @@ fn main() {
     let sq1 = Rectangle::square(size);
     println!("\n\nA square with a width of {} and a height of {} was successfully created.", &size, &size);
     println!("The area of that square is {}.\n\n\n", sq1.area());
-
 }

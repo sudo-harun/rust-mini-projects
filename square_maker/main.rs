@@ -27,7 +27,7 @@ fn main() {
 
     println!("\n\n\nSquare maker 1.0\n");
     println!("This program takes a width and height from you, makes a rectangle, and returns the area of that rectangle.");
-    println!("\nPlease enter a width.\n");
+    println!("\nPlease enter a width/height.\n");
 
     io::stdin()
         .read_line(&mut size)

@@ -1,5 +1,5 @@
 # mini-projects
-Very simple mini-projects written in Rust
+Very simple mini-projects written entirely in Rust
 
 ### Temperature Converter
 <a href='https://github.com/sudo-harun/mini-projects/blob/main/temperature-converter/main.rs'>This</a> is a very simple temperature converter written in Rust, in which the user can specify if they want to convert to celsius from fahrenheit or vice versa. The user can then enter the value they want to convert and the program converts that value and returns the converted value.

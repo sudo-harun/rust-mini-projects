@@ -11,4 +11,4 @@ The file inside of the nth-fibo-num-gen folder (main.rs) is a very simple Fibona
 The file inside of the square-maker folder (main.rs) is a very simple program, which takes a value from the user (width or height) and creates a square with that value as the width and height (assigns it to its own struct instance [sq1]). It then calculates and returns the area of that square. Please be aware that this program does not actually draw a square onto the screen.
 
 ## Triangle Maker/Drawer
-The file inside of the triangle-maker-1 folder (main.rs) is a simple triangle maker/drawer, in which the user can specify the size of the longest side of the triangle they want drawn in their terminal and draws a right angled triangle using asterisks (*).
+<a href='https://github.com/sudo-harun/mini-projects/blob/main/triangle-maker-1/main.rs'>This</a> is a simple triangle maker/drawer, in which the user can specify the size of the longest side of the triangle they want drawn in their terminal and draws a right angled triangle using asterisks (*).
